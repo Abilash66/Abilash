@@ -1,9 +1,11 @@
 Technical Proficiencies
 
 Languages : Verilog, System Verilog with Register Abstraction Layer, Perl,C ,C++
+
 Methodology ; Universal Verification Methodology
 
 EDA Tools : Verdi (VCS), Simvision (Synopsis), Verisium Manager, Questa Sim 10.0b
+
 Protocols : Memory Controller, SPI, I2C, AHB, APB, AXI, PCIe (Gen4)
 
 Projects I've worked:
